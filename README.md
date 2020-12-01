@@ -10,20 +10,7 @@
 <p align="center"> My interest lies in building simple, efficient and intuitive software for grate user experience using cutting edge modern tools and technologies. I am in the evergreen process of learning and always willing to take up new challenges</p>
 
 ## Major Skills
-### Tools I'm Currently With
+[![Majeed's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jidsfotech&show_icons=true&theme=tokyonight)](https://github.com/jidsfotech)
 
-| **FrontEnd**  | **BackEnd** |
-|---------------|-------------|
-| JavaScript    | NodeJs      |
-| ReactJs       | ExpressJs   |
-| Html          | MySql       |
-| Css           | MongoDB     |
-
-### Tools I Worked With In The Past
-
-**BackEnd** 
-- Python      
-- Java        
-- SqlLite     
-
+## &#x1f4c8; GitHub Stats
 ![Majeed's Github Stats](https://github-readme-stats.vercel.app/api?username=jidsfotech&show_icons=true&theme=radical)
