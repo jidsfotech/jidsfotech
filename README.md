@@ -1,6 +1,6 @@
 ## Welcome to Jidsfotech
 
-<h3 align="center">Hello there! My name is Shuaib Majeed. 👋🤓</h3>
+<h3 align="center">Hello there! My name is Majeed Shuaib. 👋🤓</h3>
 <p align="center"> I’m a passionate full Stack software developer</P>
 <p align="center"> My interest lies in building simple, efficient and intuitive software for grate user experience using cutting edge modern tools and technologies. I am in the evergreen process of learning and always willing to take up new challenges</p>
 
